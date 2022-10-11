@@ -48,7 +48,7 @@ Function Prototypes:
 | `107-quick_sort_hoare.c`   | `void quick_sort_hoare(int *array, size_t size);` |
 
 * [deck.h](./deck.h): Header file containing definitions and prototypes for all types
-and functions written for task `1000-sort_deck.c`.
+and functions written for the task `1000-sort_deck.c`.
 
 Data Structures:
 ```
